@@ -9,8 +9,7 @@
 Um projeto que utiliza IA para gerar dicas de saúde com elementos visuais, como guias de alongamentos, exemplos de refeições saudáveis e técnicas de respiração. O objetivo é criar uma experiência rica e intuitiva, onde o usuário pode visualizar as dicas em vez de apenas lê-las.
 
 ## 🤖 Tecnologias Utilizadas
-Chat GPT para geração do texto
-Leonardo AI para geração das imagens
+Chat GPT para geração do texto e imagem
 
 ## 🧐 Processo de Criação
 
@@ -20,7 +19,30 @@ Personalização e interatividade: A IA ajusta os tutoriais visuais com base nas
 
 ## 🚀 Resultados
 
+# Alongamento para o Pescoço
 
+### Descrição
+Esse alongamento ajuda a relaxar a tensão muscular do pescoço e dos ombros, ideal para aliviar o estresse acumulado.
+
+### Passo a Passo
+1. Sente-se com a coluna ereta.
+2. Incline a cabeça para o lado direito, aproximando a orelha do ombro.
+3. Segure por 15 segundos e repita para o lado esquerdo.
+
+# Prato Balanceado
+
+### Descrição
+Uma refeição balanceada ajuda a manter os níveis de energia ao longo do dia. Este exemplo combina carboidratos, proteínas e vegetais em proporções saudáveis.
+
+### Composição do Prato
+- **Carboidratos (25%)**: Arroz integral.
+- **Proteínas (25%)**: Filé de frango grelhado.
+- **Vegetais (50%)**: Mix de folhas verdes, cenouras e brócolis.
+
+### Passo a Passo
+1. Sente-se com a coluna ereta.
+2. Incline a cabeça para o lado direito, aproximando a orelha do ombro.
+3. Segure por 15 segundos e repita para o lado esquerdo.
 
 
 
