@@ -44,9 +44,5 @@ Uma refeição balanceada ajuda a manter os níveis de energia ao longo do dia. 
 2. Incline a cabeça para o lado direito, aproximando a orelha do ombro.
 3. Segure por 15 segundos e repita para o lado esquerdo.
 
-![Descrição da Imagem](https://github.com/seu-usuario/seu-repositorio/imagens/nome-da-imagem.png)
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
